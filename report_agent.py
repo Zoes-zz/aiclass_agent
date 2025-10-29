@@ -45,7 +45,7 @@ def create_report_agent(model_client: OpenAIChatCompletionClient, memory: ListMe
             ## 6. 免责声明与总结
             *   本报告基于公开数据和技术分析，仅供参考，不构成任何投资建议。
             *   股市有风险，投资需谨慎。
-            *   报告生成时间：[当前时间，例如 2023-10-27 10:30:00]
+            *   报告生成时间：[当前时间，例如 2025-10-27 10:30:00]
 
             --- 报告结束 ---
 
